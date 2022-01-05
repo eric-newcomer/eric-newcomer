@@ -1,6 +1,6 @@
 ### Hi, I'm Eric 👋
 
-I'm a Software Engineer at Cisco, a recent Computer Science graduate of Cal Poly San Luis Obispo, and a Co-Director of Engineering at Hack4Impact, an organization that builds software for nonprofits.
+My name is Eric and I'm a Software Engineer at Cisco, working on the Solution Engineering Team. I recently completed my undergraduate degree in Computer Science at Cal Poly San Luis Obispo. Outside of work, I serve as the National Co-Director of Engineering of Hack4Impact, an organization that builds software for nonprofits. Feel free to reach out or contact me!
 
 <!--
 **eric-newcomer/eric-newcomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
